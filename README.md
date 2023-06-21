@@ -1,6 +1,6 @@
 # WKD-Descriptor
-our WKD descriptor for point cloud registration
-
-parameter like:
-cloud_bin_0.ply cloud_bin_1.ply 2
-chef1.ply chef2.ply 1
+our WKD descriptor for point cloud registration\n
+\n
+parameter like:\n
+cloud_bin_0.ply cloud_bin_1.ply 2\n
+chef1.ply chef2.ply 1\n
